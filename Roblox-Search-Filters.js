@@ -6,6 +6,7 @@
 // @author       ru-bem
 // @match        https://www.roblox.com/discover/*
 // @match        https://www.roblox.com/charts/*
+// @license      GPL-3.0-or-later
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/ru-bem/JS_scripts/refs/heads/main/Roblox-Search-Filters.js
 // ==/UserScript==
