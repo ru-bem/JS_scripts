@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         🔎 Roblox Search Filters v1.0.0
+// @name         🔎 Roblox Search Filters
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  Adds a sidebar where you can filter your searches on Roblox.
