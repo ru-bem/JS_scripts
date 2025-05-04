@@ -2,7 +2,7 @@
 // @name         🔎 Roblox Search Filters v1.0.0
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Add filters to Roblox search page
+// @description  Adds a sidebar where you can filter your searches on Roblox.
 // @author       ru-bem
 // @match        https://www.roblox.com/discover/*
 // @match        https://www.roblox.com/charts/*
