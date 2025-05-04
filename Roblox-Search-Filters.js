@@ -7,7 +7,7 @@
 // @match        https://www.roblox.com/discover/*
 // @match        https://www.roblox.com/charts/*
 // @grant        none
-// @downloadURL  https://github.com/ru-bem/JS-Scripts/raw/master/Roblox-Search-Filters.js
+// @downloadURL  https://raw.githubusercontent.com/ru-bem/JS_scripts/refs/heads/main/Roblox-Search-Filters.js
 // ==/UserScript==
 
 (function() {
